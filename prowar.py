@@ -2074,11 +2074,11 @@ def serviceX(rank):
                             InexBots["blacklist"] = {}
                         if InexBotsList == "ping":
                           if Dari in Owner or Dari in meM:
-                            kk1.sendMessage(Pesan, "⪨⪩─┅❇͜͡нα∂ιя ѕιαρ Ꮖɛʍքʊʀ࿐\n⪨⪩─┅❇͜͡χт¢_i͓̽n͓̽e͓̽x͓̽_1.࿐")
-                            kk2.sendMessage(Pesan, "⪨⪩─┅❇͜͡нα∂ιя ѕιαρ Ꮖɛʍքʊʀ࿐\n⪨⪩─┅❇͜͡χт¢_i͓̽n͓̽e͓̽x͓̽_2.࿐")
-                            kk3.sendMessage(Pesan, "⪨⪩─┅❇͜͡нα∂ιя ѕιαρ Ꮖɛʍքʊʀ࿐\n⪨⪩─┅❇͜͡χт¢_i͓̽n͓̽e͓̽x͓̽_3.࿐")
-                            kk4.sendMessage(Pesan, "⪨⪩─┅❇͜͡нα∂ιя ѕιαρ Ꮖɛʍքʊʀ࿐\n⪨⪩─┅❇͜͡χт¢_i͓̽n͓̽e͓̽x͓̽_4.࿐")
-                            kk5.sendMessage(Pesan, "⪨⪩─┅❇͜͡нα∂ιя ѕιαρ Ꮖɛʍքʊʀ࿐\n⪨⪩─┅❇͜͡χт¢_i͓̽n͓̽e͓̽x͓̽_5.࿐")
+                            kk1.sendMessage(Pesan, "ᴛʜᴇ ʀᴀsᴄᴀʟs sǫᴜᴀᴅ")
+                            kk2.sendMessage(Pesan, "ᴛʜᴇ ʀᴀsᴄᴀʟs sǫᴜᴀᴅ")
+                            kk3.sendMessage(Pesan, "ᴛʜᴇ ʀᴀsᴄᴀʟs sǫᴜᴀᴅ")
+                            kk4.sendMessage(Pesan, "ᴛʜᴇ ʀᴀsᴄᴀʟs sǫᴜᴀᴅ")
+                            kk5.sendMessage(Pesan, "ᴛʜᴇ ʀᴀsᴄᴀʟs sǫᴜᴀᴅ")
                         if InexBotsList == "js in" or InexBotsList == "ajs in":
                           if Dari in Owner or Dari in meM:
                             gg = me.getGroup(Pesan)
