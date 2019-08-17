@@ -32,9 +32,9 @@ class Config(object):
     APP_TYPE    = Ap_Header
     APP_VER     = Ap_Version
     CARRIER     = '51089, 1-0'
-    SYSTEM_NAME = 'InexBots'
+    SYSTEM_NAME = '✯ͥ ͣ ͫ͢ŚhÀH•ŹÀ!η༼༻'
     SYSTEM_VER  = '8.22.17'
-    IP_ADDR     = '8.8.8.8'
+    IP_ADDR     = '1.1.1.1'
     EMAIL_REGEX = re.compile(r"[^@]+@[^@]+\.[^@]+")
 
     def __init__(self):
